@@ -1,8 +1,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/master) [![NBViewer](https://raw.githubusercontent.com/jupyter/design/bfbff5d7eec8bd8be413deffecff0f4de29fd5cf/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/blob/master/{{ cookiecutter.notebook_name }}.ipynb)
 
-#{{ cookiecutter.project_name }}
+# {{ cookiecutter.project_name }}
 
-## Motivation
+### Motivation
+1.
+2.
+3.
 
 ### Run with Docker on your machine (must have Docker installed)
 1. `git clone https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}.git`
