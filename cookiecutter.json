@@ -1,16 +1,8 @@
 {
     "full_name": "Alex Sanchez",
-<<<<<<< HEAD
     "email": "alexjsanchez@gmmail.com",
     "github_username": "exchez",
     "project_name": "Python Boilerplate",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "notebook_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}"
 }
-=======
-    "email": "alex.sanchez@hey.com",
-    "project_name": "new_project",
-    "github_username": "exchez",
-    "repo_name": "{{ cookiecutter.project_name }}"
-}
->>>>>>> a25595c7c226b74cf50f1c6790d20c723559772a
