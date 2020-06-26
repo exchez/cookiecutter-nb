@@ -7,7 +7,7 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - ./content:/home/jovyan/work
+      - ./content:/home/{{cookiecutter.full_name.split(' ')[0].lower()}}/work
     environment:
-      - NB_UID=1000
+      - NB_USER={{cookiecutter.full_name.split(' ')[0].lower()}}
     command: start.sh jupyter lab
